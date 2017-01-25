@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SyncSQLitetoServer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="title">Users</string>
+	<string name="plus">"+"</string>
+	<string name="adduser">"Add User"</string>
+	<string name="user">"User"</string>
+	<string name="hint">"Enter User's Name"</string>
+	<string name="save">"Save"</string>
+	<string name="cancel">"Cancel"</string>
+	<string name="adduseractivitylabel">"Add User Activity"</string>
+</resources>

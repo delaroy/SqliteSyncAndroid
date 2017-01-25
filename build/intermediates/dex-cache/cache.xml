@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\delaroystudios\Desktop\pro\SQLiteMySQLSync5\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_a22c0f82dd3cd2e296e0f724b466cb05c2a80ae8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\delaroystudios\Desktop\pro\SQLiteMySQLSync5\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\delaroystudios\Desktop\pro\SQLiteMySQLSync5\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4_70c723f50fc4d4f36a87d3b9f8e3df7dbfccc35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\delaroystudios\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.2\1f96456ca233dec780aa224bff076d8e8bca3908\gson-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="C:\Users\delaroystudios\Desktop\pro\SQLiteMySQLSync5\app\build\intermediates\pre-dexed\debug\gson-2.2.2_56ad0180ff51289761f6099ec515c88b8f3605be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\delaroystudios\Desktop\pro\SQLiteMySQLSync5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\delaroystudios\Desktop\pro\SQLiteMySQLSync5\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_b3d58633e672394510d8faf24123cbd82ace5fa2.jar" />
+    </item>
+
+</items>
